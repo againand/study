@@ -16,7 +16,7 @@ namespace study
            // p1.y = 86;
             string b=p1.GetPointString();
             Console.WriteLine(b);
-           
+           //orange
                     }
     }
 
